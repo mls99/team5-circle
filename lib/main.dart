@@ -1,6 +1,6 @@
 import 'dart:ffi';
 
-import 'package:circle_interface/contact.dart';
+import 'package:circle_interface/add_contact.dart';
 import 'package:circle_interface/first_screen.dart';
 import 'package:flutter/material.dart';
 
